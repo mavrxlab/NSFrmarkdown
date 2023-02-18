@@ -1,12 +1,12 @@
 ---
 title: "Index"
-author: "Matthew Crump"
-date: "10/5/2018"
+author: "Ryan Straight"
+date: "2023-02-18"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Use the build tab to build website. All .rmds will be knitted into .pdfs and put into the doc folder
+The `Build` tab's `Build Website` button will create all the sections' PDFs in the `\docs` folder. Generally, if you knit one document, the rest will knit, as well.

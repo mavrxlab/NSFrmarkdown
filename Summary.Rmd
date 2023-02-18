@@ -1,6 +1,9 @@
 ---
 title: "Project Summary"
 date: "\\vspace{-3em}"
+header-includes:
+  - \setlength{\parindent}{0cm}
+  - \geometry{margin=1in}
 output: 
   pdf_document:
    includes:
@@ -8,14 +11,15 @@ output:
    template: null
    keep_tex: no
    number_sections: false
+  word_document:
+   toc: false
+   number_sections: false
 documentclass: style/nsf2
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-\newsection{B}
 
 ## Overview
 
