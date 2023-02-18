@@ -8,11 +8,12 @@ An R Markdown template for NSF proposals. This is currently being updated for re
 
 ## Steps
 
-- Download the repository, and open the .rproj file.
-- Edit the .Rmd files for each of the sections of the grant. If you knit the document, a .pdf will be compiled into the doc folder.
+- Download the repository, and open the `.Rproj` file.
+- Edit the `.Rmd` files for each of the sections of the grant. If you knit the document, a `.pdf` will be compiled into the doc folder.
+    - Note that some documents are also set to create a Word file. This is useful for tracking changes with an editor or reviewer, for example, if they're not into using Git and Rmarkdown.
 - You can compile all of the .Rmd files at once by using the build tab, and clicking build website.
 
-*Tip*: put a copy of this entire repository (minus the Git-related files) in a sub-folder of your Project Template. 
+*Tip*: put a copy of this entire repository (you can delete `.gitignore`) in a sub-folder of your Project Template. Work on the contents *only* by opening this `.Rproj` file.
 
 ## Tweaking the style
 
