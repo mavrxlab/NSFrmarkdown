@@ -4,7 +4,8 @@ An R Markdown template for NSF proposals. This is currently being updated for re
 - Biosketches are now in spreadsheet template form.
 - Pending and Current Support uses a template.
 - Collaborators also uses a template.
-- For letters of committment, a Word file is included here for emailing. Just update the content with your name and project title.
+- For letters of commitment, a Word file is included here for emailing. Just update the content with your name and project title.
+- Added a `Schedule.Rmd` file. Just add the date of your solicitation deadline and it will give you a generic back-casted schedule.
 
 ## Steps
 
