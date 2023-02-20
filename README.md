@@ -24,3 +24,4 @@ The style folder contains `nsf2.cls` and  `preamble.tex`. Both of which have bee
 
 Turn section numbering within a document on or off by setting `number_sections: true` or `number_sections: false` in the YAML. The style of section-numbering is controlled using the titlesec latex package in `nsf2.cls` (style folder). **Section** IDs (ie, the Project Description as Section D) have been removed as page numbers are no longer required. They are added automatically when submitting to Research.gov.
 
+**Based on https://github.com/CrumpLab/NSFrmarkdown**
